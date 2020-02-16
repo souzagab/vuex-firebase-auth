@@ -1,4 +1,3 @@
 <template lang="pug">
-  main
-    router-view
+  h1 home page
 </template>
